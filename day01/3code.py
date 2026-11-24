@@ -1,0 +1,5 @@
+print("=" * 29)
+print("Welcome to my 150-day journey")
+print("Name: Ragav")
+print("Goal: Python Full Stack + GenAI")
+print("=" * 29)   
